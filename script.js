@@ -816,11 +816,11 @@ function renderStart() {
     <div class="card start-hero">
       <div class="start-badge">📐 Calculus III · Assessment Platform</div>
       <h1 class="start-title serif">Calculus III <span>Challenge</span></h1>
-      <p class="start-sub">50 Questions &nbsp;·&nbsp; 33 Minutes</p>
+      <p class="start-sub">50 Questions &nbsp;·&nbsp; 60 Minutes</p>
       <div class="feature-grid">
         <div class="feature"><div class="ico">🔀</div><div><h4>Randomized every run</h4><p>Question order and answer choices are freshly shuffled each time you start.</p></div></div>
         <div class="feature"><div class="ico">⚡</div><div><h4>Instant feedback</h4><p>See immediately whether each answer is correct, with clear visual and text cues.</p></div></div>
-        <div class="feature"><div class="ico">⏱️</div><div><h4>33-minute countdown</h4><p>The timer starts the moment you begin and auto-submits at zero.</p></div></div>
+        <div class="feature"><div class="ico">⏱️</div><div><h4>60-minute countdown</h4><p>The timer starts the moment you begin and auto-submits at zero.</p></div></div>
         <div class="feature"><div class="ico">🔥</div><div><h4>Streak celebrations</h4><p>String together 10 correct answers in a row to trigger a confetti moment.</p></div></div>
       </div>
       <div class="topics">
