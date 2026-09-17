@@ -523,7 +523,7 @@ const QUESTION_BANK = [
 ];
 
 const TOTAL_Q = QUESTION_BANK.length;
-const DURATION_SEC = 33 * 60;
+const DURATION_SEC = 60 * 60;
 const LS_KEY = "calc3_assessment_v1";
 
 /* =========================================================================
